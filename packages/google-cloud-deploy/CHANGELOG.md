@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.9.0](https://github.com/googleapis/google-cloud-node/compare/deploy-v3.8.0...deploy-v3.9.0) (2024-07-25)
+
+
+### Features
+
+* [deploy] add support for different Pod selector labels when doing canaries ([#5579](https://github.com/googleapis/google-cloud-node/issues/5579)) ([57d684f](https://github.com/googleapis/google-cloud-node/commit/57d684ff8fe7b7cfcf66282d15a1b31287f64ce5))
+
 ## [3.8.0](https://github.com/googleapis/google-cloud-node/compare/deploy-v3.7.0...deploy-v3.8.0) (2024-07-22)
 
 

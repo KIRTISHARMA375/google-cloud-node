@@ -5,6 +5,65 @@
       "changes": [
         {
           "type": "feat",
+          "sha": "af46d5779f82d7a37c687e1364b8c653bb6369e9",
+          "message": "[discoveryengine] Update SearchService",
+          "issues": [
+            "5578"
+          ]
+        },
+        {
+          "type": "feat",
+          "sha": "384096fe3bbab56e9f708a2bc422f711cc1d8641",
+          "message": "[discoveryengine] Update CompletionService",
+          "issues": [
+            "5574"
+          ]
+        }
+      ],
+      "version": "1.12.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/discoveryengine",
+      "id": "908ae606-4e79-43ba-84cb-551897ec48b9",
+      "createTime": "2024-07-25T18:57:44.371Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "57d684ff8fe7b7cfcf66282d15a1b31287f64ce5",
+          "message": "[deploy] add support for different Pod selector labels when doing canaries",
+          "issues": [
+            "5579"
+          ]
+        }
+      ],
+      "version": "3.9.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/deploy",
+      "id": "fad60de3-807d-4dce-998e-fc6e98fbc172",
+      "createTime": "2024-07-25T18:57:44.335Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "bebe50e1a5910e6fc8889e2a682cd0dd2977653e",
+          "message": "[datacatalog] add DataplexTransferStatus enum and field to TagTemplate",
+          "issues": [
+            "5573"
+          ]
+        }
+      ],
+      "version": "4.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datacatalog",
+      "id": "c7c003aa-d3f3-4c66-af64-59e58713dbc3",
+      "createTime": "2024-07-25T18:57:44.318Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
           "sha": "28f75b7605249db8d7eb362b82e7d8053e397839",
           "message": "Add initial files for google.cloud.gdchardwaremanagement.v1alpha",
           "issues": [
@@ -35550,5 +35609,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2024-07-22T17:56:25.671Z"
+  "updateTime": "2024-07-25T18:57:44.371Z"
 }

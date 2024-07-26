@@ -31,7 +31,7 @@ function main(image, project) {
   /**
    *  Name of the image resource to return.
    */
-  // const image = 'abc123'
+  // const image = 'flower'
   /**
    *  Project ID for this request.
    */
